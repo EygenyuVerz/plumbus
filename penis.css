@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+#cum{
+    color: red;
+    font-size: 305px;
+}
+
+#salt{
+    color: green;
+    font-size: 35px;
+}
+
+#cap{
+    color: pink;
+    font-size: 345px;
+}
